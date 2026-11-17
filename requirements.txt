@@ -1,0 +1,10 @@
+torch>=2.6
+tabpfn
+xgboost
+shap
+scikit-learn
+pandas
+matplotlib
+jupyter
+fastapi
+uvicorn
